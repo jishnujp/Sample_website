@@ -1,0 +1,78 @@
+body{
+	width : 80%;
+	background-color: #bebebe;
+	margin:auto;
+}
+
+header{
+	background-color: DarkSalmon;
+	text-align: center;
+}
+header h1{
+	padding-top: 10px;
+	color: #fff;
+}
+header h2{
+	color: #ececec;
+}
+header nav{
+	background-color: salmon;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-size: 20px;
+	color: #ececec;
+}
+header nav a{
+	text-decoration: none;
+	padding: 10px;
+	color: #fff;
+}
+header nav a:hover{
+	background-color: grey;
+}
+.card{
+	height: 400px;
+	background-color: #f8f8f8;
+	color: grey;
+	font-family: sans-serif;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 1.6em;
+	border-radius : 5px;
+	border-color: : #a0a0a0;
+}
+
+.card h3{
+	padding: 20px;
+	padding-bottom: 0px;
+}
+
+.card img{
+	 padding: 20Px;
+}
+.history img{
+	height: 200px;
+	padding: 10px;
+}
+.gallery img{
+	height: 250px;
+	padding: 10px;
+}
+.card p{
+	padding: 20px;
+	text-align: justify;
+}
+.gallery p{
+	padding: 20px;
+	text-align: justify;
+}
+.history p{
+	padding: 20px;
+	text-align: justify;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: Darksalmon;
+  color: white;
+}
